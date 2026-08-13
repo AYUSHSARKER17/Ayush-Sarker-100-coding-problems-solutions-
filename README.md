@@ -18,19 +18,17 @@ This journey helped me build a strong foundation for **Competitive Programming a
 
 ## Level 1: Basic Logic & Input/Output
 
-| No | Problem |
-|---|---|
-| 1 | Hello World |
-| 2 | Simple Calculator |
-| 3 | Swap Two Numbers |
-| 4 | Largest of 2 Numbers |
-| 5 | Largest of 3 Numbers |
-| 6 | Smallest of 3 Numbers |
-| 7 | Even or Odd |
-| 8 | Positive, Negative or Zero |
-| 9 | Leap Year |
-| 10 | Grade Calculator |
-| 11 | Age Category |
+1. Hello World 
+2. Simple Calculator 
+3. Swap Two Numbers 
+4. Largest of 2 Numbers 
+5. Largest of 3 Numbers 
+6. Smallest of 3 Numbers 
+7. Even or Odd 
+8. Positive, Negative or Zero 
+9. Leap Year 
+10. Grade Calculator 
+11. Age Category 
 
 ---
 
@@ -184,6 +182,8 @@ Python-100-Problems/
 ├── prob9.py
 ├── prob10.py
 ├── prob11py
+├── ............
+
 
 ```
 
