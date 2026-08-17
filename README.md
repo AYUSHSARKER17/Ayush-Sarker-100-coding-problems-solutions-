@@ -1,3 +1,13 @@
+git filter-branch -f --env-filter '
+CORRECT_NAME="Ayush Sarker"
+CORRECT_EMAIL="biplab.mitaz@gmail.com"
+
+export GIT_COMMITTER_NAME="$CORRECT_NAME"
+export GIT_COMMITTER_EMAIL="$CORRECT_EMAIL"
+export GIT_AUTHOR_NAME="$CORRECT_NAME"
+export GIT_AUTHOR_EMAIL="$CORRECT_EMAIL"
+' --tag-name-filter cat -- --branches --tags
+
 # 🐍 Python 100 Problems Challenge
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
